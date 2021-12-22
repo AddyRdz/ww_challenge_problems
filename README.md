@@ -8,15 +8,9 @@ your Javascript and general problem-solving skills.
 - Planning: How well are you pseudo-coding? 
 - Execution: How well can you implement your code? 
 
-Each problem will come with an automated test:
-
-to run the test you will need to run
-
-`npm install` at the root level of this directory
-
 ## How to use the example problems below:
 
-To give you some examples of strategies for problem solvings, we have broken down some example problems and included tests you can run on your own code as an intermediate step, before running the mocha test. 
+To give you some examples of strategies for problem solvings, we have broken down some example problems and included tests you can run on your own code as an intermediate step, before running any automated test. 
 
 ## Warm up Problem Example 
 ```js
